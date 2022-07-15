@@ -11,6 +11,7 @@ pip install -U pip
 # pip install flake8
 # pip install flake8-docstrings
 # pip install pytest
+# pip install jupyter
 # pip freeze > requirements.txt
 
 pip install -r requirements.txt

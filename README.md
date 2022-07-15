@@ -23,5 +23,8 @@ Python言語学習用リポジトリ
     ./python-sample/bin/activate
     ```
 
+## Jupyter Notebook
+
+Webブラウザ上で動作する対話型実行環境。
 
 
